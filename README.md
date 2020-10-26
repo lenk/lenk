@@ -1,5 +1,5 @@
 <ul>
-   <p align="center">
+   <p align="">
       <a href="https://github.com/anuraghazra/convoychat">
         <img src="https://github-readme-stats.vercel.app/api?show_owner=true&include_all_commits=true&count_private=true&username=lenk&show_icons=true&theme=dark" />
       </a>
