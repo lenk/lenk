@@ -1,6 +1,6 @@
 <div>
    <ul align="center">
-      <h2>(っ◔◡◔)っ ♥ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ♥</h2>
+      <h2>(✿◠‿◠) ♥ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ♥ (◠‿◠✿)</h2>
       <div align="left">
        ✨ ɪ ʟɪᴋᴇ ʟᴏɴɢ ᴍᴏᴛᴏʀᴄʏᴄʟᴇ ʀɪᴅᴇꜱ! </br>
        ✨ ɪ ʟɪᴋᴇ ᴘʟᴀʏɪɴɢ ʏᴜ-ɢɪ-ᴏʜ! </br>
@@ -14,7 +14,7 @@
 
 <div>
    <ul align="center">
-      <h2>(っ◔◡◔)っ ♥ 𝓣𝓸𝓸𝓵 𝓑𝓸𝔁 ♥</h2>
+      <h2>(✿◠︿◠)*:･ﾟ✧ ♥ 𝓣𝓸𝓸𝓵 𝓑𝓸𝔁 ♥ ✧ﾟ･:*(◠︿◠✿)</h2>
    <div id="programming">
         <img style="margin: 5px" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
         <img style="margin: 5px" src="https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
