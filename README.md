@@ -1,17 +1,19 @@
 <div>
-   <ul align="center" style="text-align: center;">
+   <ul align="center">
       <h2>(っ◔◡◔)っ ♥ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ♥</h2>
+      <div align="left">
        ✨ ɪ ʟɪᴋᴇ ʟᴏɴɢ ᴍᴏᴛᴏʀᴄʏᴄʟᴇ ʀɪᴅᴇꜱ! </br>
        ✨ ɪ ʟɪᴋᴇ ᴘʟᴀʏɪɴɢ ʏᴜ-ɢɪ-ᴏʜ! </br>
        ✨ ɪ ᴇɴᴊᴏʏ ᴍᴇ ꜱᴏᴍᴇ ᴀɴɪᴍᴇ! </br>
        ✨ ᴄʀᴏꜱꜱ ᴄᴏᴜɴᴛʀʏ ᴛʀᴀᴠʟᴇʀ, 30 ꜱᴛᴀᴛᴇꜱ ꜱᴏ ꜰᴀʀ! </br>
        ✨ ꜱᴇʟꜰ ᴇᴍᴘʟᴏʏᴇᴅ! </br>
        ✨ ᴀɴᴅ ɪꜰ ɪᴛ ᴀɪɴ'ᴛ ᴏʙᴠɪᴏᴜꜱ ᴇɴᴏᴜɢʜ, ɪ ᴇɴᴊᴏʏ ᴘʟᴀʏɪɴɢ ʟᴏᴢ! </br>
+      </div>
    </ul>
 </div>
 
 <div>
-   <ul align="center" style="text-align: center;">
+   <ul align="center">
       <h2>(っ◔◡◔)っ ♥ 𝓣𝓸𝓸𝓵 𝓑𝓸𝔁 ♥</h2>
    <div id="programming">
         <img style="margin: 5px" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
